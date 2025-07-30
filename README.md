@@ -2,17 +2,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-</div>
-
-## About Me
--## 🤝 Let's Connect!
+[![Typing SVG](https://readme-typin## 🤝 Let's Connect!
 I'm always open to interesting conversations and collaboration opportunities!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nafe.amin.nahid@g.bracu.ac.bd)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nahid4942)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](#)
+
+</div>
 
 ---
 
@@ -26,7 +26,12 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.* ⭐
 
-</div>I'm Nahid, a passionate developer and cybersecurity enthusiast
+</div>rokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
+
+## About Me
+- 👋 Hi, I'm Nahid, a passionate developer and cybersecurity enthusiast
 - 👀 I'm interested in machine learning and cybersecurity
 - 🌱 I'm currently learning **AWS Cloud Services** and **Cybersecurity**
 - 💞️ I'm looking to collaborate on machine learning and cybersecurity projects
@@ -57,12 +62,49 @@ I'm always open to interesting conversations and collaboration opportunities!
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## ⏱️ Weekly Development Breakdown
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   4 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   23.1%
+Java         2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.8%
+C++          1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    9.7%
+CSS          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.2%
+```
+<!--END_SECTION:waka-->
+
+</div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
+### 🎮 Mario Pyramid Generator
 [![Mario Pyramid](https://github-readme-stats.vercel.app/api/pin/?username=nahid4942&repo=nahid4942&theme=radical&hide_border=true)](https://github.com/nahid4942/nahid4942)
+
+*A Python program that generates Mario-style pyramids with user input validation*
+
+---
+
+### 📊 More Projects Coming Soon...
+I'm currently working on exciting projects in:
+- 🔐 **Cybersecurity Tools** - Network security scanners and vulnerability assessment tools
+- 🤖 **Machine Learning** - Predictive models and data analysis projects  
+- 🌐 **Web Applications** - Full-stack projects with modern frameworks
+- ☁️ **Cloud Solutions** - AWS-based scalable applications
 
 </div>
 
@@ -104,6 +146,32 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahid4942&theme=radical&no-frame=true&row=1&column=6)
+
+</div>
+
+## 📈 Contribution Activity
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahid4942&theme=redical&hide_border=true)
+
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  
+![Snake animation](https://github.com/nahid4942/nahid4942/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## 💼 Professional Summary
+<div align="center">
+  
+```
+🎯 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer
+📚 Computer Science Student at BRAC University
+🌱 Currently mastering AWS Cloud Services & Ethical Hacking
+💡 Passionate about creating innovative solutions and secure applications
+```
 
 </div>
 

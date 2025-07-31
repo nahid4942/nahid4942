@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Programmer life" width="300">
 
 ```
-🎯 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer
+🎯 Aspiring Front-End Developer | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer
 📚 Computer Science Student at BRAC University
 🌱 Currently mastering AWS Cloud Services & Ethical Hacking
 💡 Passionate about creating innovative solutions and secure applications
@@ -45,12 +45,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 
-
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.* ⭐
 
 
 
-</div>thusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 

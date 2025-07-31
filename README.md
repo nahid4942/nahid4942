@@ -44,11 +44,11 @@ I'm always open to interesting conversations and collaboration opportunities!
   
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer" width="100">
+
 
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.* ⭐
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="Thank you" width="150">
+
 
 </div>thusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -145,8 +145,6 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-
-### 🎮 Mario Pyramid Generator
 [![Mario Pyramid](https://github-readme-stats.vercel.app/api/pin/?username=nahid4942&repo=nahid4942&theme=radical&hide_border=true)](https://github.com/nahid4942/nahid4942)
 
 ---
@@ -157,9 +155,7 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 
 ### 🔨 What I'm Working On
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacker typing" width="250">
-</div>
+
 
 - 🔐 Building cybersecurity tools and learning ethical hacking
 - ☁️ Exploring AWS cloud services and infrastructure
@@ -188,18 +184,6 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-
-
-
-## 🔥 GitHub Streak
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahid4942&theme=radical&hide_border=true)
-
-</div>
 
 
 

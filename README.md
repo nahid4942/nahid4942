@@ -66,9 +66,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ## 🛠️ Technical Skills & 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</div>
+
 
 <table>
 <tr>
@@ -106,6 +104,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
 
 </td>
 <td width="50%" valign="top">
@@ -165,15 +168,26 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 
 ## 🔍 Areas of Interest
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code" width="300">
-</div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - 🤖 **Machine Learning & AI**
 - 🔐 **Cybersecurity & Ethical Hacking**
 - ☁️ **Cloud Computing (AWS)**
 - 🌐 **Web Development**
 - 🎨 **UI/UX Design**
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code" width="300">
+</div>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer## 💼 Professional Summary
+
 
 <div align="center">
   
@@ -142,14 +142,9 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Developer working" width="300">
 
 ### 🎮 Mario Pyramid Generator
 [![Mario Pyramid](https://github-readme-stats.vercel.app/api/pin/?username=nahid4942&repo=nahid4942&theme=radical&hide_border=true)](https://github.com/nahid4942/nahid4942)
-
-*A Python program that generates Mario-style pyramids with user input validation*
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Code typing" width="200">
 
 ---
 

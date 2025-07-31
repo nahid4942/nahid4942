@@ -2,10 +2,28 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typin## 🤝 Let's Connect!
-I'm always open to interesting conversations and collaboration opportunities!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=## 💼 Professional Summary
 
 <div align="center">
+  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Programmer life" width="300">
+
+```
+🎯 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer
+📚 Computer Science Student at BRAC University
+🌱 Currently mastering AWS Cloud Services & Ethical Hacking
+💡 Passionate about creating innovative solutions and secure applications
+```
+
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Waving hand" width="60">
+
+I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nafe.amin.nahid@g.bracu.ac.bd)
@@ -18,15 +36,23 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nahid4942&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" alt="Data structures" width="200">
 </div>
 
 <div align="center">
   
 ### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer" width="100">
+
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.* ⭐
 
-</div>rokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="Thank you" width="150">
+
+</div>;Machine+Learning+Enthusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 </div>
 
@@ -39,6 +65,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 📫 How to reach me: **nafe.amin.nahid@g.bracu.ac.bd**
 
 ## 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -91,11 +121,15 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 ## 🚀 Featured Projects
 
 <div align="center">
+  
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Developer working" width="300">
 
 ### 🎮 Mario Pyramid Generator
 [![Mario Pyramid](https://github-readme-stats.vercel.app/api/pin/?username=nahid4942&repo=nahid4942&theme=radical&hide_border=true)](https://github.com/nahid4942/nahid4942)
 
 *A Python program that generates Mario-style pyramids with user input validation*
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Code typing" width="200">
 
 ---
 
@@ -109,12 +143,22 @@ I'm currently working on exciting projects in:
 </div>
 
 ### 🔨 What I'm Working On
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacker typing" width="250">
+</div>
+
 - 🔐 Building cybersecurity tools and learning ethical hacking
 - ☁️ Exploring AWS cloud services and infrastructure
 - 🤖 Developing machine learning projects
 - 🌐 Creating responsive web applications
 
 ## 🔍 Areas of Interest
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Matrix code" width="300">
+</div>
+
 - 🤖 **Machine Learning & AI**
 - 🔐 **Cybersecurity & Ethical Hacking**
 - ☁️ **Cloud Computing (AWS)**
@@ -122,7 +166,9 @@ I'm currently working on exciting projects in:
 - 🎨 **UI/UX Design**
 
 ## 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub cat" width="100">
   
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid4942&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
@@ -143,7 +189,9 @@ I'm currently working on exciting projects in:
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Trophy dance" width="150">
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahid4942&theme=radical&no-frame=true&row=1&column=6)
 

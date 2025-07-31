@@ -153,12 +153,7 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-### 📊 More Projects Coming Soon...
-I'm currently working on exciting projects in:
-- 🔐 **Cybersecurity Tools** - Network security scanners and vulnerability assessment tools
-- 🤖 **Machine Learning** - Predictive models and data analysis projects  
-- 🌐 **Web Applications** - Full-stack projects with modern frameworks
-- ☁️ **Cloud Solutions** - AWS-based scalable applications
+
 
 </div>
 
@@ -187,19 +182,8 @@ I'm currently working on exciting projects in:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub cat" width="100">
-  
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid4942&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-</div>
 
-## 🌟 Top Languages
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid4942&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 🔥 GitHub Streak
 <div align="center">
@@ -208,14 +192,7 @@ I'm currently working on exciting projects in:
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Trophy dance" width="150">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahid4942&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
 
 ## 📈 Contribution Activity
 <div align="center">
@@ -224,24 +201,8 @@ I'm currently working on exciting projects in:
 
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  
-![Snake animation](https://github.com/nahid4942/nahid4942/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 
-## 💼 Professional Summary
-<div align="center">
-  
-```
-🎯 Aspiring Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 ML Explorer
-📚 Computer Science Student at BRAC University
-🌱 Currently mastering AWS Cloud Services & Ethical Hacking
-💡 Passionate about creating innovative solutions and secure applications
-```
-
-</div>
 
 ## 🤝 Let's Connect!
 I'm always open to interesting conversations and collaboration opportunities!, I’m nahid

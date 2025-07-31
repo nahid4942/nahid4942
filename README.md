@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=## 💼 Professional Summary
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer## 💼 Professional Summary
 
 <div align="center">
   
@@ -50,7 +50,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="Thank you" width="150">
 
-</div>;Machine+Learning+Enthusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+</div>thusiast;Cybersecurity+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
@@ -64,11 +64,15 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 🎓 Student at BRAC University
 - 📫 How to reach me: **nafe.amin.nahid@g.bracu.ac.bd**
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & 📊 GitHub Stats
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -103,9 +107,23 @@ I'm always open to interesting conversations and collaboration opportunities!
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## ⏱️ Weekly Development Breakdown
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
+### GitHub Statistics
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub cat" width="80">
+</div>
+
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid4942&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid4942&layout=compact&theme=radical&hide_border=true)
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahid4942&theme=radical&hide_border=true)
+
+### Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 Python       8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.2%
@@ -116,7 +134,9 @@ CSS          55 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-</div>
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
